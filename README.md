@@ -3,7 +3,7 @@
 Video Link for demo: https://drive.google.com/file/d/1JeoZi78DUennzmgt3lPn-uTz8slAPgay/view?usp=sharing
 
 
-![frosthacks](https://user-images.githubusercontent.com/52701183/169712970-588a19cc-f0ec-4694-97bc-4872af1c503f.PNG)
+![devpost](https://user-images.githubusercontent.com/52701183/169712970-588a19cc-f0ec-4694-97bc-4872af1c503f.PNG)
 
 **_One stop solution to avoid medical errors and decrease treatment time_**
 
