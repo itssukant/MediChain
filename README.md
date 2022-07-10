@@ -27,7 +27,7 @@ $ npm install npm@latest-g
 Clone the repository
 
 ```
-$ git clone https://github.com/Abhinavtdk/olympians_frosthacks.git
+$ git clone https://github.com/itssukant/MediChain.git
 ```
 
 Open the folder and install the dependencies.<br/>
